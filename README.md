@@ -1,4 +1,4 @@
-﻿# 🛡️ Java Validation Toolkit
+﻿# 🛡️ Java Bean Validation
  <p align="left">
   Made with ❤️ by Fajar Abdillah Ahmad
 </p>
