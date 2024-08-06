@@ -5,7 +5,7 @@
 ```
 
 <p align="center">
-  <img src="https://github.com/fajarabdillah354/Java-Validation/blob/main/src/main/java/jakarta/fajar/images/Java%20Validation.jpeg"  width="100%" height="100%">
+  <img src="https://github.com/fajarabdillah354/Java-Validation/blob/main/src/main/java/jakarta/fajar/images/Java_Validation.jpeg"  width="100%" height="100%">
 </p>
 
 <p align="center">
